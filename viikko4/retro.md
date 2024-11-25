@@ -13,3 +13,4 @@ mitä tulisi alkaa tehdä, minkä asian tekeminen pitäisi lopettaa, minkä asia
 enemmän ja mitä vähemmän. Asiat jaotellaan ja laitetaan esille vastaavasti viiteen osaan jaettuun ympyrään havainnollistamaan 
 tilannetta. Keskustelua johtava henkilö auttaa kommenttien keräämisessä ja kategorisoimisessa. Lopuksi päätetään 
 toimenpiteistä yhdessä.
+
